@@ -8,7 +8,7 @@ The sections of repo are : Report and Data.
 
 It contains the the report that is finally presented.
 
- 1. Report.rmd
+ 1. Report.Rmd
  2. Report.pdf
  
  * Data:
